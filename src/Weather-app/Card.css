@@ -1,0 +1,22 @@
+.innerComponent{
+    width: 25%;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 20px 10px rgba(0, 0, 0, 0.5);
+    padding: 5rem 4rem;
+    border-radius: 1rem;
+}
+.innerComponent h1{
+    font-size: 5rem;
+    font-weight: bold;
+}
+.innerComponent p{
+    font-size: 3rem;
+    font-weight: bold;
+    color: gray;
+}
+.innerComponent span{
+    font-weight: bold;
+    font-size: 4rem;
+    color: lightgray;
+}

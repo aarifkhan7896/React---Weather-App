@@ -1,0 +1,22 @@
+.container form{
+    width: 25%;
+    margin: 3rem auto;
+    text-align: center;
+}
+.container form input[type="text"]{
+    width: 100%;
+    padding: 1rem;
+    border-radius: .5rem;
+    font-size: 1.5rem;
+}
+.container form input[type="submit"]{
+    background-color: green;
+    color: white;
+    padding: 1rem 3rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.container form input[type="submit"]:hover{
+    background-color: rgba(0, 128, 0, 0.74);
+}
